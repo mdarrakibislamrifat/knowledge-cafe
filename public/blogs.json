@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 1,
+      "cover": "https://i.ibb.co/2y2rXBR/265-digital-marketing-facebook-cover-page-template.jpg",
+      "title": "The Enigmatic Adventure",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/41YpyRC/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 45,
+      "hashtags": ["fiction", "adventure", "mystery"]
+    },
+    {
+      "ID": 2,
+      "cover": "https://i.ibb.co/mFBNvxr/7964736.jpg",
+      "title": "A Journey Through Time",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/jHXYfGB/portrait-young-bearded-man-xa.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 30,
+      "hashtags": ["science fiction", "time travel"]
+    },
+    {
+      "ID": 3,
+      "cover": "https://i.ibb.co/v4fcxMN/191.jpg",
+      "title": "The Hidden Secrets",
+      "author": "David Johnson",
+      "author_img": "https://i.ibb.co/mJ1NgmB/guy-plaid-shirt.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 60,
+      "hashtags": ["mystery", "suspense", "thriller"]
+    },
+    {
+      "ID": 4,
+      "cover": "https://i.ibb.co/ChGLpnP/252-Fashion-sale-facebook-cover-page-template.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "Emily White",
+      "author_img": "https://i.ibb.co/wQbCyjp/young-man-with-beard-round-glasses.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 75,
+      "hashtags": ["science", "space", "exploration"]
+    },
+    {
+      "ID": 5,
+      "cover": "https://i.ibb.co/q0Jp4Z9/47-email-signature.jpg",
+      "title": "Cooking Adventures",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/P5vk5CM/man-plaid-shirt-bow-tie-studio.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 40,
+      "hashtags": ["cooking", "recipes", "food"]
+    }
+  ]
+  
